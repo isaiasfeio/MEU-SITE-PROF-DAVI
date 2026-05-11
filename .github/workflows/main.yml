@@ -2,7 +2,7 @@ name: verificacao do projeto
 
 on: 
    push:
-
+ 
   jobs:
     verificar:
     runs-on: ubuntu-latest
